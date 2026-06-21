@@ -1,1 +1,1 @@
-# pg-sopor-tal2
+# pgsopor-tal2
